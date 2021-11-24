@@ -7,7 +7,19 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
-  width: 100vw;
-  background-image: url(https://blog.enem.com.br/wp-content/uploads/2020/02/img-materia-r7-espaco.jpg);
+  
+  
+}
+.imagem{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.globe{
+  width: 300px;
+  height: 300px;
+  border: 1px solid blue;
+  border-radius: 50%;
+  background-image: url();
 }
